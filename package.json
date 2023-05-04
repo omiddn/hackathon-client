@@ -18,12 +18,17 @@
   "dependencies": {
     "@emotion/react": "^11.10.8",
     "@emotion/styled": "^11.10.8",
+    "d3": "^7.8.4",
+    "d3-force": "^3.0.0",
     "gatsby": "^5.9.0",
     "gatsby-plugin-emotion": "^8.9.0",
+    "graphology": "^0.25.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "sigma": "^3.0.0-alpha3"
   },
   "devDependencies": {
+    "@types/d3": "^7.4.0",
     "@types/node": "^18.16.2",
     "@types/react": "^18.2.0",
     "@types/react-dom": "^18.2.1",

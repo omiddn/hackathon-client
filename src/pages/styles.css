@@ -1,0 +1,14 @@
+body {
+  background: #faf2f5;
+}
+.link {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node {
+  cursor: move;
+  fill: #c14e8b;
+  stroke: #37352f;
+  stroke-width: 1.5px;
+}
